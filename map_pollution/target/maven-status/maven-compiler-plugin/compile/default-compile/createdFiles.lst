@@ -1,0 +1,12 @@
+com\ktbyte\cs85\pollution\sparkutils\WebFetcher$MyTrustTrategy.class
+com\ktbyte\cs85\pollution\sparkutils\EmbeddedJettyFactoryConstructor.class
+com\ktbyte\cs85\pollution\sparkutils\ResourceLoader.class
+com\ktbyte\cs85\pollution\sparkutils\SparkUtils.class
+com\ktbyte\cs85\pollution\sparkutils\LogbackUtils.class
+com\ktbyte\cs85\pollution\sparkutils\RequestLogFactory.class
+com\ktbyte\cs85\pollution\BreezometerRequester.class
+BreezometerRange.class
+com\ktbyte\cs85\pollution\sparkutils\WebFetcher.class
+com\ktbyte\cs85\pollution\sparkutils\RequestLogFactory$1.class
+BreezometerPoint.class
+com\ktbyte\cs85\pollution\BreezometerRequester$BreezometerRequesterFilter.class

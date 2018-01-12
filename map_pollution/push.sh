@@ -1,0 +1,14 @@
+scp -o StrictHostKeyChecking=no target/pollution-0.0.1-SNAPSHOT-jar-with-dependencies.jar user@p2.ktbyte.com:
+ssh -o StrictHostKeyChecking=no user@p2.ktbyte.com mkdir -p mapdlout
+scp -o StrictHostKeyChecking=no target/pollution-0.0.1-SNAPSHOT-jar-with-dependencies.jar root@vs002.ktbyte.com:
+ssh -o StrictHostKeyChecking=no root@vs002.ktbyte.com mkdir -p mapdlout
+scp -o StrictHostKeyChecking=no target/pollution-0.0.1-SNAPSHOT-jar-with-dependencies.jar root@vs003.ktbyte.com:
+ssh -o StrictHostKeyChecking=no root@vs003.ktbyte.com mkdir -p mapdlout
+scp -o StrictHostKeyChecking=no target/pollution-0.0.1-SNAPSHOT-jar-with-dependencies.jar root@vs004.ktbyte.com:
+ssh -o StrictHostKeyChecking=no root@vs004.ktbyte.com mkdir -p mapdlout
+scp -o StrictHostKeyChecking=no target/pollution-0.0.1-SNAPSHOT-jar-with-dependencies.jar root@vs005.ktbyte.com:
+ssh -o StrictHostKeyChecking=no root@vs005.ktbyte.com mkdir -p mapdlout
+scp -o StrictHostKeyChecking=no target/pollution-0.0.1-SNAPSHOT-jar-with-dependencies.jar root@vs006.ktbyte.com:
+ssh -o StrictHostKeyChecking=no root@vs006.ktbyte.com mkdir -p mapdlout
+scp -o StrictHostKeyChecking=no target/pollution-0.0.1-SNAPSHOT-jar-with-dependencies.jar root@vs007.ktbyte.com:
+ssh -o StrictHostKeyChecking=no root@vs007.ktbyte.com mkdir -p mapdlout
